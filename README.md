@@ -24,27 +24,5 @@ Based on the provided BRD, the analysis focuses on three core pillars:
 * **Revenue Drivers:** The [Pizza Category] category accounts for the largest share of total revenue.
 * **Operational Bottlenecks:** Peak order times were identified between [Start Time] and [End Time], critical for kitchen preparation workflows.
 
-## 📊 Visualizations
-*See the `images/` folder for full high-resolution charts.*
-
-### 1. Executive Dashboard Overview
-![Dashboard](images/dashboard_overview.png)
-*A high-level view of critical KPIs and sales distribution.*
-
-### 2. Temporal Sales Trends
-![Trend Analysis](images/sales_trend.png)
-*Daily and monthly sales patterns used for operational planning.*
-
-## 🚀 Usage & Reproduction
-1.  Clone the repository:
-    ```bash
-    git clone [https://github.com/yourusername/pizza-sales-analysis.git](https://github.com/yourusername/pizza-sales-analysis.git)
-    ```
-2.  Install dependencies:
-    ```bash
-    pip install pandas matplotlib seaborn openpyxl
-    ```
-3.  Run the Jupyter Notebook to view the interactive analysis.
-
 ---
 *This project is part of my professional portfolio demonstrating proficiency in Python for Data Analysis and Business Intelligence.*
